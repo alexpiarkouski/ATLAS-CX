@@ -59,11 +59,11 @@
                 <v-col class="pa-0" cols="12" sm="11" md="11">
                   <v-carousel class="carousel pa-0 " height="auto" width="auto" show-arrows="hover" hide-delimiters
                     progress="primary">
-                    <v-carousel-item src="./src/assets/front1.png" cover></v-carousel-item>
-                    <v-carousel-item src="./src/assets/front2.png" cover eager></v-carousel-item>
-                    <v-carousel-item src="./src/assets/front3.png" cover eager></v-carousel-item>
-                    <v-carousel-item src="./src/assets/front4.png" cover eager></v-carousel-item>
-                    <v-carousel-item src="./src/assets/front5.png" cover eager></v-carousel-item>
+                    <v-carousel-item src="https://storage.googleapis.com/frontend-imgs/front1.png" cover eager></v-carousel-item>
+                    <v-carousel-item src="https://storage.googleapis.com/frontend-imgs/front2.png" cover eager></v-carousel-item>
+                    <v-carousel-item src="https://storage.googleapis.com/frontend-imgs/front3.png" cover eager></v-carousel-item>
+                    <v-carousel-item src="https://storage.googleapis.com/frontend-imgs/front4.png" cover eager></v-carousel-item>
+                    <v-carousel-item src="https://storage.googleapis.com/frontend-imgs/front5.png" cover eager></v-carousel-item>
                   </v-carousel>
                 </v-col>
               </v-row>
